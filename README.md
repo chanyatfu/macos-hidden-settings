@@ -2,12 +2,12 @@
 
 This repo covers six hidden macOS settings that I found useful. The settings are:
 
-- Eliminate Dock's auto-hide delay
-- Show crash reporter as a notification
-- Dim hidden apps in the Dock
-- Scroll up on Dock app's icon to show all opened windows
-- Enable key repeats
 - Use Touch ID to authenticate sudo
+- Eliminate Dock's pop-up delay
+- Scroll up on Dock icon to show all opened windows for that application
+- Enable key repeats
+- Dim hidden apps in the Dock
+- Show crash reporter as a notification
 
 To run the setup, simply clone the repo and run the `run.sh` script.
 
