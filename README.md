@@ -1,4 +1,4 @@
-# Hidden macOS setting
+# macOS Hidden Settings
 
 This repo covers six hidden macOS settings that I found useful. The settings are:
 
@@ -12,8 +12,8 @@ This repo covers six hidden macOS settings that I found useful. The settings are
 To run the setup, simply clone the repo and run the `run.sh` script.
 
 ```bash
-git clone git@github.com:chanyatfu/hidden-macos-setup.git
-cd hidden-macos-setup
+git clone git@github.com:chanyatfu/macos-hidden-settings.git
+cd macos-hidden-settings
 chmod +x run.sh
 ./run.sh
 ```
